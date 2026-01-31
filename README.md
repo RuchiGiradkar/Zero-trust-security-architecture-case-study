@@ -1,6 +1,6 @@
-# Zero Trust Security Architecture – Enterprise Case Study
+# Zero Trust Security Architecture - Enterprise Case Study
 
-This repository presents a Zero Trust–aligned security architecture designed for a large, globally distributed enterprise undergoing long-term cloud modernization. The environment spans cloud workloads, on-premises systems, SaaS applications, remote users, and operational technology (OT) assets with strict availability constraints.
+This repository presents a Zero Trust-aligned security architecture designed for a large, globally distributed enterprise undergoing long-term cloud modernization. The environment spans cloud workloads, on-premises systems, SaaS applications, remote users, and operational technology (OT) assets with strict availability constraints.
 
 This case study is written as an architecture deliverable, not a slide deck. It focuses on design intent, tradeoffs, sequencing, and operational realism rather than tool marketing or theoretical frameworks.
 
