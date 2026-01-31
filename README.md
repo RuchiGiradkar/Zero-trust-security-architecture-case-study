@@ -23,7 +23,7 @@ Zero Trust is applied as a strategy to increase assurance for business assets, i
 **Figure 1: Zero Trust Strategy Overview**  
 This figure illustrates how policy-driven user access, modern security operations, and OT plus datacenter protection combine to increase security while preserving productivity. It establishes strategic intent before technical architecture is introduced.
 
-[Insert Image: Zero Trust Strategy]
+![Figure 1 - Zero Trust Strategy](images/figure-1-zero-trust-strategy.png)
 
 ---
 
@@ -48,7 +48,7 @@ The target state is a policy-driven Zero Trust architecture structured around co
 **Figure 2: Zero Trust Security Components**  
 This figure defines the architectural scope across identity, endpoints, data, applications, infrastructure, and network. It provides the domain model used consistently throughout the solution.
 
-[Insert Image: Zero Trust Security Components]
+![Figure 2 - Zero Trust Security Components](images/figure-2-components.png)
 
 ---
 
@@ -59,7 +59,7 @@ At the core of the architecture is centralized policy evaluation combined with d
 **Figure 3: Policy-Driven Zero Trust Architecture**  
 This figure shows centralized policy evaluation with real-time enforcement across applications, data, infrastructure, and network layers. It answers how Zero Trust decisions are made and enforced consistently in a hybrid environment.
 
-[Insert Image: Zero Trust Architecture with Policy Enforcement]
+![Figure 3 - Policy-Driven Zero Trust Architecture](images/figure-3-policy-enforcement.png)
 
 This separation of decision-making and enforcement avoids fragmented access rules and supports consistent risk evaluation across cloud and on-premises environments.
 
@@ -110,7 +110,7 @@ The architecture is mapped to implementation layers to demonstrate deployability
 **Figure 4: Zero Trust Technology Mapping**  
 This figure shows how identity, endpoint, data, application, infrastructure, and network controls integrate with centralized detection and response. It demonstrates implementation feasibility while keeping the architecture vendor-neutral at the design level.
 
-[Insert Image: Zero Trust Technologies Mapping]
+![Figure 4 - Zero Trust Technology Mapping](images/figure-4-technology-mapping.png)
 
 ---
 
