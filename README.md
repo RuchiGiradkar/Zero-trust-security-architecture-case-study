@@ -126,7 +126,7 @@ Each security domain has a defined owner responsible for policy integrity and op
 
 The implementation follows a phased five-year roadmap to balance risk reduction with operational stability.
 
-![Figure 5 - Zero Trust Five Year Roadmap]images/figure-5-zero-trust-five-year-roadmap.png
+![Figure 5 - Five-Year Zero Trust Security Implementation Roadmap](images/figure-5-zero-trust-five-year-roadmap.png)
 
 - Year one establishes visibility and baseline controls  
 - Year two introduces controlled enforcement using risk signals  
