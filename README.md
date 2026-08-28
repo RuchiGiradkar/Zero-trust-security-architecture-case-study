@@ -155,4 +155,4 @@ Visibility must precede enforcement in large environments. Strong security archi
 ## Disclaimer
 
 This repository represents a security architecture case study and design exercise. It does not contain production data and does not represent a deployed customer environment.
-This is the README.md file and I would like to create a repository. Tell me step by step how I should be creating the repository, what should be the name, and how I should be putting it in my GitHub repository. Tell me properly.
+
